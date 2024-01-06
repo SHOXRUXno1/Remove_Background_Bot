@@ -5,7 +5,7 @@ url = "https://background-removal.p.rapidapi.com/remove"
 # payload = { "image_url": "https://objectcut.com/assets/img/raven.jpg" }
 headers = {
 	"content-type": "application/x-www-form-urlencoded",
-	"X-RapidAPI-Key": "2a3e540985mshe66e3dbd53e4361p13a8b5jsn8e6be55e5ecc",
+	"X-RapidAPI-Key": "a034eee326msh391acfe23fba9fcp1bda1ejsnd0f64603a28d",
 	"X-RapidAPI-Host": "background-removal.p.rapidapi.com"
 }
 
